@@ -1,0 +1,34 @@
+.navbar ul li a:hover{
+    background-color: blue;
+   
+}
+.navbar ul li{
+    font-size: 1.5rem;
+}
+/* .image{
+    float: right;
+} */
+img{
+    transition: all 1s ease-out;
+}
+img:hover{
+    transform: scale(1.1);
+}
+.masterhead{
+    background-size: cover;
+    min-height: 60vh;
+    position: relative;
+
+}
+.masterhead1{
+    background-size: cover;
+    min-height: 70vh;
+    position: relative;
+
+}
+.masterhead2{
+    background-size: cover;
+    min-height: 70vh;
+    position: relative;
+
+}
