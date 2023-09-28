@@ -1,0 +1,46 @@
+/* .container-fluid{
+    color: white;
+    background-color: black;
+} */
+/* .container-fluid{
+    color: white;
+    background-color: black;
+} */
+.navbar ul li a:hover{
+    background-color: blue;
+   
+}
+.navbar ul li{
+    font-size: 2rem;
+}
+
+.container{
+    display: block;
+    overflow: none;
+}
+.card img{
+    transition: all 1s ease-out;
+}
+.card img:hover{
+    transform: scale(1.1);
+}
+.shadow img{
+    transition: all 1s ease-out;
+}
+.shadow img:hover{
+    transform: scale(1.1);
+}
+.col-md-6 img{
+    border-radius: 500px;
+}
+.quote{
+    background-color: hsl(314, 79%, 83%);
+   
+}
+.blockquotees{
+    transition: all 1s ease-in; 
+   
+}
+.blockquotees:hover{
+    transform: scale(1.1);
+}
